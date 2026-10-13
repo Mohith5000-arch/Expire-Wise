@@ -1,3 +1,4 @@
+
 # ExpiryWise — Document & Subscription Tracker
 
 A full-stack web app to track official-document and subscription expiry dates from one clean dashboard.
@@ -100,3 +101,6 @@ This is a portfolio-ready local MVP, not a production document vault. Do not upl
 - [ ] Calendar view and export
 - [ ] Optional OCR-based date extraction, with user confirmation
 - [ ] Deployment and automated tests
+=======
+# Expire-Wise
+
